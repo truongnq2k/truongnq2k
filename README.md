@@ -1,5 +1,5 @@
 
-<center> ### Hi there 👋 </center>
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
