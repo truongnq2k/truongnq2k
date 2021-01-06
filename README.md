@@ -1,7 +1,9 @@
 
 ### Hi there 👋
 
-# I'm TRUONGNQ2K
+
+# I'm [TRUONGNQ2K](https://www.facebook.com/truongnq2k/)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning on FPT University
