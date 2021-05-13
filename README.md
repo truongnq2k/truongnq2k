@@ -17,7 +17,6 @@
 - 😄 Một sản phẩm còn sống còn phải sửa còn phải code... 
 - 🌱 Sản phẩm gọi là xong thì là sản phẩm đã chết, không có khái niệm code xong
 
-
 <img align="right" alt="Truong's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/98.png!/crop/630x600a0a30" height="180px"/>
 
 # Github Stats  
@@ -28,6 +27,6 @@
 
 # Technology Statistic
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongnq2k&hide_border=true&layout=compact&theme=vue-dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongnq2k&hide_border=true&layout=compact&theme=vue-dark" width="100%" />
 
 
