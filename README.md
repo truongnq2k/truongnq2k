@@ -1,5 +1,7 @@
 
-### Hi there 👋
+<img align="right" alt="Momo's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/97.png!/crop/630x600a0a0" height="180px"/>
+
+### Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="20"/>
 
 
 # I'm [TRUONGNQ2K](https://www.facebook.com/truongnq2k/)
@@ -14,6 +16,9 @@
 - ⚡ Fun fact: handsome
 - 😄 Một sản phẩm còn sống còn phải sửa còn phải code... 
 - 🌱 Sản phẩm gọi là xong thì là sản phẩm đã chết, không có khái niệm code xong
+
+
+<img align="right" alt="Momo's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/98.png!/crop/630x600a0a30" height="180px"/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
