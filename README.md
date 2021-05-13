@@ -25,8 +25,6 @@
 
 <img align="right" alt="Truong's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/99.png" height="180px"/>
 
-# Technology Statistic
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongnq2k&hide_border=true&layout=compact&theme=vue-dark" width="100%" />
 
 
