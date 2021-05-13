@@ -21,7 +21,7 @@
 
 # Github Stats  
 
-<img align="left" alt="Truong's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=truongnq2k&show_icons=true&hide_border=true&cache_seconds=1900&theme=vue-dark"/>
+<img align="left" alt="Truong's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=truongnq2k&show_icons=true&hide_border=true&cache_seconds=1900&theme=vue-dark" width="100% />
 
 <img align="right" alt="Truong's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/99.png" height="180px"/>
 
