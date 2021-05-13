@@ -17,9 +17,11 @@
 - 😄 Một sản phẩm còn sống còn phải sửa còn phải code... 
 - 🌱 Sản phẩm gọi là xong thì là sản phẩm đã chết, không có khái niệm code xong
 
-## Github Stats  
-<img align="left" alt="Truong's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=truongnq2k&show_icons=true&hide_border=true&cache_seconds=1900&theme=vue-dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongnq2k&hide_border=true&layout=compact&theme=vue-dark" align="left" style="width: 100%; " />
+
 <img align="right" alt="Momo's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/98.png!/crop/630x600a0a30" height="180px"/>
+# Github Stats  
+<img align="left" alt="Truong's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=truongnq2k&show_icons=true&hide_border=true&cache_seconds=1900&theme=vue-dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongnq2k&hide_border=true&layout=compact&theme=vue-dark" align="left" style="width: 100%; " />
 <img align="left" alt="Momo's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/99.png" height="180px"/>
 
